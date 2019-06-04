@@ -1,4 +1,0 @@
-hello world!
-hello javaScript!
-hello php!
-hello thinkphp5.0!
